@@ -1,5 +1,5 @@
 {
-  "name": "crudtuto-front",
+  "name": "crud-tuto-front",
   "version": "0.0.0",
   "scripts": {
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && ng serve ",
