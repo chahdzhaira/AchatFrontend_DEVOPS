@@ -2,7 +2,7 @@
   "name": "crud-tuto-front",
   "version": "0.0.0",
   "scripts": {
-    "start": "set NODE_OPTIONS=--openssl-legacy-provider && ng serve ",
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && ng serve --host 0.0.0.0 --port 4200",
     "publish": "set NODE_OPTIONS=--openssl-legacy-provider && ng build --prod",
     "ng": "ng",
     "build": "ng build",
